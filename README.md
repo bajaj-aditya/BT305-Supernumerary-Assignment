@@ -19,7 +19,7 @@ Zip File Contains:</p>
 Recommendation: The work on this BT-305 Project was done on a jupyter notebook and not a python script, the exectuable generated is an automatic generation. Would advise you to directly check the notebook. 
 Incase The .ipynb file(notebook) does not render or have some issues.<br>
 Click on the below link.<br>
-&quot;<a href="https://nbviewer.org/github/bajaj-aditya/BT305-Supernumerary-Assignment/blob/e9474b43dfad6101aae00ea8ab78d6adc3bcbc75/BT305%20Program%20Notebook.ipynb">https://nbviewer.org/github/bajaj-aditya/BT305-Supernumerary-Assignment/blob/e9474b43dfad6101aae00ea8ab78d6adc3bcbc75/BT305 Program Notebook.ipynb</a>&quot;</p>
+&quot;<a href="https://nbviewer.org/github/bajaj-aditya/BT305-Supernumerary-Assignment/blob/e9474b43dfad6101aae00ea8ab78d6adc3bcbc75/BT305%20Program%20Notebook.ipynb">Static and rendered HTML version of the file.</a>&quot;</p>
 <p class="has-line-data" data-line-start="20" data-line-end="21">This is the rendered version of the jupyter notebook as a static HTML web page. This is easily shareable.</p>
 <hr>
 <h2 class="code-line" data-line-start=23 data-line-end=24 ><a id="Introduction_23"></a>Introduction</h2>
