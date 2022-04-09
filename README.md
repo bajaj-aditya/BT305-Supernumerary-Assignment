@@ -1,5 +1,3 @@
-# BT305-Supernumerary-Assignment
-Code on Visualizing and Comparing Molecular Structures using MDAnalysis and py3Dmol
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="BT305_Supernumerary_Assignment_0"></a>BT305 Supernumerary Assignment</h1>
 <h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="Aditya_Bajaj_190106006_1"></a>Aditya Bajaj; 190106006</h2>
 <p class="has-line-data" data-line-start="3" data-line-end="4">Main Idea: Visualizing and Comparing Molecular Structures using MDAnalysis and py3Dmol</p>
