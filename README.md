@@ -17,7 +17,7 @@ Zip File Contains:</p>
 The .ipynb file might not render or have some issues due to unproper installation of different libraries.<br>
 In that case have a look at:<br>
 &quot;<a href="https://nbviewer.org/github/bajaj-aditya/BT305-Supernumerary-Assignment/blob/e9474b43dfad6101aae00ea8ab78d6adc3bcbc75/BT305%20Program%20Notebook.ipynb">https://nbviewer.org/github/bajaj-aditya/BT305-Supernumerary-Assignment/blob/e9474b43dfad6101aae00ea8ab78d6adc3bcbc75/BT305 Program Notebook.ipynb</a>&quot;</p>
-<p class="has-line-data" data-line-start="20" data-line-end="21">This web application lets you enter the URL of a Jupyter Notebook file on GitHub, then it renders that notebook as a static HTML web page. This gives you a stable link to that page which you can share with others.</p>
+<p class="has-line-data" data-line-start="20" data-line-end="21">This is the rendered version of the notebook as a static HTML web page. This is easily shareable.</p>
 <hr>
 <h2 class="code-line" data-line-start=23 data-line-end=24 ><a id="Introduction_23"></a>Introduction</h2>
 <p class="has-line-data" data-line-start="24" data-line-end="25">The PDB file contains information of all the experimental conditions that allowed obtaining a given three-dimensional protein structure (contained in the PDB file), as well as information about the biological features of the protein and the overall features of the crystal structure (cell unit, dimensions, number of monomers, biological assembly, etc.). However, its most relevant body of corresponds to the <strong>coordinates</strong> (i.e. the three-dimensional positions) of the atoms of a structure of a given protein.</p>
